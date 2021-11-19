@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lupus-v2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lupus-v2/static/js/main.73b71c72.chunk.js",
+    "main.js.map": "/lupus-v2/static/js/main.73b71c72.chunk.js.map",
+    "runtime-main.js": "/lupus-v2/static/js/runtime-main.a929e6b1.js",
+    "runtime-main.js.map": "/lupus-v2/static/js/runtime-main.a929e6b1.js.map",
+    "static/js/2.252b0f15.chunk.js": "/lupus-v2/static/js/2.252b0f15.chunk.js",
+    "static/js/2.252b0f15.chunk.js.map": "/lupus-v2/static/js/2.252b0f15.chunk.js.map",
+    "static/js/3.d4e39a71.chunk.js": "/lupus-v2/static/js/3.d4e39a71.chunk.js",
+    "static/js/3.d4e39a71.chunk.js.map": "/lupus-v2/static/js/3.d4e39a71.chunk.js.map",
+    "index.html": "/lupus-v2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lupus-v2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.252b0f15.chunk.js.LICENSE.txt": "/lupus-v2/static/js/2.252b0f15.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lupus-v2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a929e6b1.js",
+    "static/js/2.252b0f15.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.73b71c72.chunk.js"
+  ]
+}
